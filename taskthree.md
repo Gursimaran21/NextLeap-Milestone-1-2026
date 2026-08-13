@@ -293,3 +293,66 @@ The interface can therefore adapt:
 <img width="250" height="250" alt="Screenshot 2026-08-13 221347" src="https://github.com/user-attachments/assets/1cc7a416-58d4-499e-8e8c-d5e68e36952d" />
 
 That's much more useful than treating voice as a standalone channel.
+
+**8. Where discoverability starts Weakening**
+
+The **basic Voice action is discoverable**.
+
+But advanced Voice capabilities are less discoverable.
+
+For example:
+
+- Background conversations
+- Voice language
+- Voice selection
+- Start with Voice
+- Intelligence level
+- Advanced vs Live
+- Screen sharing
+- Video
+
+are primarily exposed through **Settings** → **Voice** or within the Voice interface.
+
+That's a classic product tradeoff:
+
+**Primary action**
+
+**Highly visible**
+
+🎙️ Voice
+
+**Secondary capabilities**
+
+**Progressively hidden**
+
+Settings / menus / contextual controls
+
+That's appropriate for keeping the UI clean, but it means many users may never discover the full capability set.
+
+**9. The "aha moment" could be Stronger**
+
+If I were conducting a usability study, I'd test this:
+
+**Give a new user the app and say:**
+
+"Use ChatGPT to help you plan a trip."
+
+Then observe.
+
+I'd measure:
+
+**T1:** How long until they notice Voice?
+
+**T2:** Do they understand what the Voice icon does?
+
+**T3:** Do they expect dictation or conversation?
+
+**T4:** Do they realize they can interrupt ChatGPT?
+
+**T5:** Do they discover that they can type while Voice is active?
+
+**T6:** Do they discover image sharing during Voice?
+
+**T7:** Do they understand that Voice remains part of the same chat?
+
+Those would be excellent UX research metrics.
