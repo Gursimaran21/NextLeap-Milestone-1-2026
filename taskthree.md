@@ -26,7 +26,7 @@ That distinction is important because both use voice, but they represent very di
 | **Discoverability of advanced capabilities** | 🟡 Moderate    | Background conversations, Start with Voice, language, etc. live in Settings                    |
 | **Overall**                                  | **8/10**       | Excellent core interaction; opportunity remains around explaining *which kind of voice* to use |
 
-**1. Where is the voice input surface?**
+**1. Where is the Voice Input Surface?**
 
 On mobile, Voice is in the message bar.
 
@@ -64,7 +64,7 @@ The user doesn't have to navigate to a separate "Voice" section to discover it.
 
 **Verdict: Highly Discoverable**
 
-**2. But there's an interesting UX ambiguity**
+**2. But there's an Interesting UX Ambiguity**
 
 The word "voice" actually represents two different experiences.
 
@@ -112,7 +112,7 @@ For a new user, both can reasonably be interpreted as:
 
 That's the biggest UX weakness I'd investigate.
 
-**3. The actual interaction is very intuitive**
+**3. The Actual Interaction is very Intuitive**
 
 The basic flow is excellent:
 
@@ -155,3 +155,77 @@ That's good mobile UX.
 **The first successful interaction should happen before the user has to understand the product architecture.**
 
 ChatGPT largely achieves that.
+
+**4. Where the Experience gets much Better: Voice is now Contextual**
+
+This is arguably the biggest improvement.
+
+Previously, voice could feel like:
+
+**Text Chat** ↔ **Voice Mode**
+
+Two separate experiences.
+
+The newer Voice experience instead brings Voice inside the existing chat.
+
+OpenAI says GPT-Live-1 can speak while streamed text appears alongside it, and Voice can use web search and memory and work with text and images in the same conversation.
+
+That creates a much stronger model:
+
+                 SAME CONVERSATION
+                       │
+          ┌────────────┼────────────┐
+          │            │            │
+         TEXT         VOICE       IMAGE
+          │            │            │
+          └────────────┼────────────┘
+                       │
+                    CONTEXT
+
+The user doesn't need to think:
+
+"I'm entering Voice Mode now."
+
+They can simply **change the modality of communication**.
+
+That's a very good direction.
+
+**5. Why this is particularly Good on Mobile**
+
+Mobile users frequently have situations where typing is inconvenient.
+
+For example:
+
+**Walking**
+
+"Plan my day."
+
+**Cooking**
+
+"How many tablespoons are in 60 ml?"
+
+**Driving/CarPlay**
+
+"What meetings do I have tomorrow?"
+
+**Looking at something**
+
+📷 → take photo → ask verbally.
+
+**Studying**
+
+"Explain this paragraph."
+
+**Brainstorming**
+
+"Give me ten ideas..."
+
+Voice reduces the physical interaction cost.
+
+So Voice isn't merely:
+
+**another input method**
+
+It's a **context-dependent interaction mode**.
+
+That's a crucial distinction.
