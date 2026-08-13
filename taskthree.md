@@ -471,7 +471,10 @@ My assessment:
 
 The **best part** is that Voice is no longer treated as a completely separate destination. It is increasingly becoming a **modality within the same conversational context.**
 
-**Click on** **[Task 4](taskfour.md)**
 The **biggest opportunity** is helping users understand the difference between "**dictate to ChatGPT**" and "**have a live conversation with ChatGPT**", while progressively teaching them that Voice can seamlessly incorporate **text, images, web results and memory**.
 
 That distinction is especially important if you're looking at this from a **Product Manager/UX case-study perspective:** the interesting product problem isn't "Where should we put the microphone?" - that's largely solved. The deeper problem is **how to make voice feel like a contextual interaction layer rather than a separate feature.**
+
+**Click on** **[Task 4](taskfour.md)**
+
+
