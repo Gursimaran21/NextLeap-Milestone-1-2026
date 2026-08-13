@@ -104,3 +104,147 @@ The important distinction is:
 **Search**
 
 → retrieves current information from the web.
+
+**5. Deep Research**
+
+This is the **research layer**.
+
+Instead of asking:
+
+"Tell me about the Product Manager job market."
+
+you can ask it to investigate:
+
+"Research the 2026 Product Manager market in India, analyze 100 job postings, identify the most requested skills, compare them with my experience, and create a transition plan."
+
+Deep Research is designed for multi-step research and produces cited results. OpenAI has also expanded it with connected apps and controls for trusted-site research.
+
+So:
+
+**Search = find information**
+
+**Deep Research = investigate a question**
+
+**6. Projects = your personal AI workspace**
+
+This is particularly important if you're using ChatGPT for a long-term goal.
+
+A Project can contain:
+
+Conversations
+Files
+Instructions
+Research
+Images
+Ongoing work
+
+Projects are available across web, iOS and Android. They can also contain tools such as web search, Voice, image generation and Canvas, depending on availability.
+
+For example, you could create:
+
+**Project: "My Product Management Career"**
+
+Inside:
+
+📁 Product Management Career
+│
+├── Resume
+├── LinkedIn
+├── Job descriptions
+├── Product case studies
+├── Interview preparation
+├── Learning plan
+├── Portfolio projects
+└── Research
+
+Now ChatGPT has a much richer context for helping you.
+
+**7. Work / Agents — the most important emerging layer**
+
+This is where the mobile app is moving beyond "chatbot."
+
+OpenAI's current ChatGPT experience distinguishes **Chat** from **Work**.
+
+Chat is for quick questions and conversation.
+
+**Work is for longer, multi-step tasks and finished deliverables**, such as reports, spreadsheets, presentations and documents. Work is available on web and mobile for eligible paid plans.
+
+For example:
+
+"Research 20 Product Manager jobs, analyze the requirements, compare them with my resume, identify my skill gaps, and create a 90-day learning plan."
+
+That's no longer just answering a question.
+
+It's **doing a job**.
+
+**8. The really interesting development: your phone becomes an AI control panel**
+
+OpenAI has also brought **Codex remote access** into the ChatGPT mobile app.
+
+That means a developer can have Codex working on a connected Mac while using the phone to:
+
+Monitor progress
+Review results
+Answer questions
+Approve actions
+Change direction
+Review screenshots
+Review terminal output
+Review diffs and test results
+
+The mobile app essentially becomes a **remote control for AI work happening elsewhere**.
+
+That's a significant change in what a mobile AI app means.
+
+**9. Search across your entire ChatGPT**
+
+Another recent mobile improvement is unified search across:
+
+- Chats
+- Projects
+- Images
+- Documents
+
+OpenAI rolled this out across web, iOS and Android in July 2026.
+
+This matters because ChatGPT can increasingly become your **personal knowledge repository**.
+
+Instead of remembering:
+
+"Which chat did I discuss my resume in?"
+
+you can search across your ChatGPT history.
+
+**10. Mobile vs Web vs Desktop**
+
+Here's the landscape I would use:
+
+| Capability            | 📱 Mobile | 💻 Web | 🖥️ Desktop |
+| --------------------- | --------- | ------ | ----------- |
+| Chat                  | ⭐⭐⭐⭐⭐     | ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐⭐       |
+| Voice                 | ⭐⭐⭐⭐⭐     | ⭐⭐⭐⭐   | ⭐⭐⭐⭐⭐       |
+| Camera/images         | ⭐⭐⭐⭐⭐     | ⭐⭐⭐    | ⭐⭐⭐         |
+| Quick research        | ⭐⭐⭐⭐⭐     | ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐⭐       |
+| Deep research         | ⭐⭐⭐⭐      | ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐⭐       |
+| Projects              | ⭐⭐⭐⭐⭐     | ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐⭐       |
+| Long documents        | ⭐⭐⭐       | ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐⭐       |
+| Data analysis         | ⭐⭐⭐       | ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐⭐       |
+| Agent/Work            | ⭐⭐⭐⭐      | ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐⭐       |
+| Coding                | ⭐⭐⭐       | ⭐⭐⭐⭐   | ⭐⭐⭐⭐⭐       |
+| On-the-go use         | ⭐⭐⭐⭐⭐     | ⭐⭐     | ⭐           |
+| Camera/visual context | ⭐⭐⭐⭐⭐     | ⭐⭐     | ⭐⭐          |
+
+**Mobile's superpower is context.**
+
+You have:
+
+- 📷 Camera
+- 🎙️ Microphone
+- 📍 Potential location context
+- 📱 Screen
+- 🖼️ Photos
+- 📄 Documents
+- 🗣️ Voice
+- 🌐 Internet
+
+all in your pocket.
