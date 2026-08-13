@@ -111,3 +111,47 @@ For a new user, both can reasonably be interpreted as:
 "Use my microphone."
 
 That's the biggest UX weakness I'd investigate.
+
+**3. The actual interaction is very intuitive**
+
+The basic flow is excellent:
+
+**Tap Voice**
+
+↓
+
+**Microphone permission**
+
+↓
+
+**Choose voice (first time)**
+
+↓
+
+**Speak**
+
+↓
+
+**ChatGPT responds**
+
+OpenAI's current documentation confirms this exact flow for iOS and Android.
+
+There is very little cognitive overhead.
+
+You don't have to:
+
+- open Settings
+- select a mode
+- create a voice chat
+- configure a conversation
+- choose a model
+
+before getting started.
+
+That's good mobile UX.
+
+**Principle:**
+
+**The first successful interaction should happen before the user has to understand the product architecture.**
+
+ChatGPT largely achieves that.
