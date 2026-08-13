@@ -21,7 +21,7 @@ As of August 2026, the ChatGPT mobile app is becoming an **AI assistant + resear
 
 Think of the mobile app as **7 major layers**:
 
-**1. Chat — the basic layer**
+**1. Chat - the basic layer**
 
 This is the traditional ChatGPT experience:
 
@@ -36,3 +36,19 @@ This is the traditional ChatGPT experience:
 - Translate
 
 But **Chat is now only one part of the product**.
+
+**2. Voice - ChatGPT becomes conversational**
+
+On Android and iPhone, you can have a real-time voice conversation rather than typing everything.
+
+The current Voice experience can combine speech with text and images, and the newer Live experience supports more natural interruption and turn-taking. Depending on availability, Voice can also use web search and memory.
+
+So the interaction changes from:
+
+**keyboard → prompt → answer**
+
+to:
+
+**speak → listen → interrupt → clarify → continue**
+
+This makes the phone particularly important because you can use ChatGPT while walking, commuting, studying, brainstorming, etc.
