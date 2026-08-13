@@ -295,4 +295,6 @@ So I'd describe the **2026 ChatGPT mobile app as:**
 
 And for **your career transition toward Product Management**, this is particularly relevant: learning how to design useful **mobile AI workflows and agent experiences** could be much more valuable than simply learning "ChatGPT prompting."
 
-**Click on** **[Task 2](tasktwo.md)** or ## Go back to [README](README.md)
+**Click on** **[Task 2](tasktwo.md)** or 
+
+## Go back to [README](README.md)
