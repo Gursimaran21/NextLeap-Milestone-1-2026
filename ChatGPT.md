@@ -248,3 +248,31 @@ You have:
 - 🌐 Internet
 
 all in your pocket.
+
+**11. The strategic shift**
+
+The most important thing to understand is this:
+
+**2023**
+
+**ChatGPT mobile = chatbot**
+
+↓
+
+**2024**
+
+**ChatGPT mobile = chatbot + voice + vision**
+
+↓
+
+**2025**
+
+**ChatGPT mobile = AI assistant + projects + memory + research**
+
+↓
+
+**2026**
+
+**ChatGPT mobile = AI assistant + research + workspace + multimodal interface + agent control**
+
+That last transition is the important one.
