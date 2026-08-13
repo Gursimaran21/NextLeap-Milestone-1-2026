@@ -447,3 +447,30 @@ Those are different user jobs.
 This distinction matters because **voice conversation is a two-way interaction**, whereas dictation is fundamentally an **input acceleration mechanism.**
 
 OpenAI's own documentation confirms they're distinct capabilities.
+
+**13. UX Scorecard**
+
+My assessment:
+
+| Dimension                        |      Score |
+| -------------------------------- | ---------: |
+| Voice discoverability            |   **9/10** |
+| Placement                        |   **9/10** |
+| Initial interaction              |   **9/10** |
+| Affordance clarity               |   **8/10** |
+| Voice vs dictation clarity       | **6.5/10** |
+| Contextual relevance             |   **9/10** |
+| Multimodal continuity            | **9.5/10** |
+| Advanced-feature discoverability |   **7/10** |
+| On-the-go usefulness             |  **10/10** |
+| Overall Voice UX                 | **8.5/10** |
+
+#### My Core Conclusion
+
+**The Voice button is highly discoverable and intuitively placed, but the product's deeper voice mental model is less obvious than its basic affordance.**
+
+The **best part** is that Voice is no longer treated as a completely separate destination. It is increasingly becoming a **modality within the same conversational context.**
+
+The **biggest opportunity** is helping users understand the difference between "**dictate to ChatGPT**" and "**have a live conversation with ChatGPT**", while progressively teaching them that Voice can seamlessly incorporate **text, images, web results and memory**.
+
+That distinction is especially important if you're looking at this from a **Product Manager/UX case-study perspective:** the interesting product problem isn't "Where should we put the microphone?" - that's largely solved. The deeper problem is **how to make voice feel like a contextual interaction layer rather than a separate feature.**
