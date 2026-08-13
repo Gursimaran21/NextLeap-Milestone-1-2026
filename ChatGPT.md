@@ -52,3 +52,55 @@ to:
 **speak → listen → interrupt → clarify → continue**
 
 This makes the phone particularly important because you can use ChatGPT while walking, commuting, studying, brainstorming, etc.
+
+**3. Camera + images = visual AI**
+
+This is one of the biggest advantages of mobile.
+
+You can take a photograph and ask:
+
+"What's wrong with this?"
+
+or:
+
+"Explain this document."
+
+or:
+
+"Read this chart."
+
+or:
+
+"Improve this image."
+
+ChatGPT Images also lets you create and edit images, and the image experience is available on iOS and Android.
+
+So your phone becomes:
+
+**camera → AI vision → reasoning → answer/action**
+
+rather than simply a camera.
+
+**4. Search**
+
+ChatGPT mobile can search the web when current information matters.
+
+For example:
+
+"Find remote Product Manager jobs posted today."
+
+"What happened in AI today?"
+
+"Compare these three companies."
+
+"Find the best laptop under ₹80,000."
+
+The important distinction is:
+
+**Normal Chat**
+
+→ primarily reasons over the conversation and available knowledge.
+
+**Search**
+
+→ retrieves current information from the web.
