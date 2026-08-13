@@ -294,3 +294,5 @@ So I'd describe the **2026 ChatGPT mobile app as:**
 **A portable AI operating interface that lets you communicate with AI through text, voice and vision, access your information, research the web, work with projects and increasingly supervise AI agents.**
 
 And for **your career transition toward Product Management**, this is particularly relevant: learning how to design useful **mobile AI workflows and agent experiences** could be much more valuable than simply learning "ChatGPT prompting."
+
+**Click on** **[Task 2](tasktwo.md)**
