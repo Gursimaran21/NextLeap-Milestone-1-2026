@@ -290,17 +290,6 @@ Now visual information can complement the spoken response.
 
 The interface can therefore adapt:
 
-Simple question
-      ↓
-     VOICE
-      ↓
-spoken answer
-
-
-Complex / visual question
-      ↓
-VOICE + TEXT + VISUALS
-      ↓
-richer understanding
+<img width="250" height="250" alt="Screenshot 2026-08-13 221347" src="https://github.com/user-attachments/assets/1cc7a416-58d4-499e-8e8c-d5e68e36952d" />
 
 That's much more useful than treating voice as a standalone channel.
