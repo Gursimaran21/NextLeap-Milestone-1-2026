@@ -33,3 +33,7 @@ Indian users leverage voice features primarily to bypass typing friction in comp
 - **Friction Elimination over Novelty:** Adoption succeeds when voice eliminates a clear physical hassle (typing complex scripts, searching while driving) rather than being a standalone novelty.
 
 **Click on** **[Task 3](taskthree.md)**
+
+**or** 
+
+## Go back to [README](README.md)
