@@ -159,7 +159,7 @@ Inside:
 
 Now ChatGPT has a much richer context for helping you.
 
-**7. Work / Agents — the most important emerging layer**
+**7. Work / Agents - the most important emerging layer**
 
 This is where the mobile app is moving beyond "chatbot."
 
@@ -183,14 +183,14 @@ OpenAI has also brought **Codex remote access** into the ChatGPT mobile app.
 
 That means a developer can have Codex working on a connected Mac while using the phone to:
 
-Monitor progress
-Review results
-Answer questions
-Approve actions
-Change direction
-Review screenshots
-Review terminal output
-Review diffs and test results
+- Monitor progress
+- Review results
+- Answer questions
+- Approve actions
+- Change direction
+- Review screenshots
+- Review terminal output
+- Review diffs and test results
 
 The mobile app essentially becomes a **remote control for AI work happening elsewhere**.
 
@@ -276,3 +276,15 @@ The most important thing to understand is this:
 **ChatGPT mobile = AI assistant + research + workspace + multimodal interface + agent control**
 
 That last transition is the important one.
+
+**12. What I think the mobile landscape is ultimately becoming**
+
+The phone itself isn't disappearing.
+
+Instead:
+
+**Your phone becomes the interface.**
+
+The heavy work happens in the cloud or connected environments.
+
+<img width="250" height="250" alt="Screenshot 2026-08-13 211943" src="https://github.com/user-attachments/assets/610cd596-acb6-4b1c-9ec5-ba89dbe54819" />
