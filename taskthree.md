@@ -356,3 +356,94 @@ I'd measure:
 **T7:** Do they understand that Voice remains part of the same chat?
 
 Those would be excellent UX research metrics.
+
+**10. My biggest Product critique**
+
+The **icon is discoverable.**
+
+The **capability is powerful.**
+
+But the **mental model isn't necessarily obvious.**
+
+A new user sees:
+
+🎙️
+
+and has to infer:
+
+"Does this dictate my message?"
+
+or:
+
+"Does this start a conversation?"
+
+or:
+
+"Will ChatGPT speak back?"
+
+or:
+
+"Can I interrupt it?"
+
+or:
+
+"Does this create a separate chat?"
+
+The current product resolves these questions through interaction rather than upfront explanation.
+
+That's acceptable for experienced users.
+
+But for first-time users, there's an opportunity.
+
+**11. A potentially better Onboarding pattern**
+
+I'd experiment with a very lightweight first-use explanation:
+
+**Talk to ChatGPT**
+
+"Speak naturally. You can interrupt, switch to typing, or share an image anytime."
+
+**[Start talking]**
+
+This teaches the mental model rather than merely explaining the microphone.
+
+Even better:
+
+🎙️ **Talk to ChatGPT**
+Have a natural conversation using your voice.
+
+**[Try it]**
+
+Then, after the first interaction:
+
+**Tip:** You can type or share images while talking.
+
+That would progressively expose the multimodal capability without cluttering the main UI.
+
+**12. One more important distinction: Voice vs Dictation**
+
+I'd actually consider making the distinction more explicit.
+
+Instead of relying primarily on iconography:
+
+<img width="250" height="250" alt="Screenshot 2026-08-13 223327" src="https://github.com/user-attachments/assets/36931af8-e4e9-4c3a-b3db-1ed4fa3fe08e" />
+
+and perhaps a long-press or secondary interaction for:
+
+**Dictate text**
+
+This would create:
+
+**Voice**
+
+**"Talk with ChatGPT."**
+
+**Dictation**
+
+**"Speak a message."**
+
+Those are different user jobs.
+
+This distinction matters because **voice conversation is a two-way interaction**, whereas dictation is fundamentally an **input acceleration mechanism.**
+
+OpenAI's own documentation confirms they're distinct capabilities.
