@@ -288,3 +288,9 @@ Instead:
 The heavy work happens in the cloud or connected environments.
 
 <img width="250" height="250" alt="Screenshot 2026-08-13 211943" src="https://github.com/user-attachments/assets/610cd596-acb6-4b1c-9ec5-ba89dbe54819" />
+
+So I'd describe the **2026 ChatGPT mobile app as:**
+
+**A portable AI operating interface that lets you communicate with AI through text, voice and vision, access your information, research the web, work with projects and increasingly supervise AI agents.**
+
+And for **your career transition toward Product Management**, this is particularly relevant: learning how to design useful **mobile AI workflows and agent experiences** could be much more valuable than simply learning "ChatGPT prompting."
