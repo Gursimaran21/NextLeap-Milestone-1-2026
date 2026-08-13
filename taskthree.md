@@ -229,3 +229,78 @@ So Voice isn't merely:
 It's a **context-dependent interaction mode**.
 
 That's a crucial distinction.
+
+**6. The strongest UX decision: Multimodal Continuity**
+
+Imagine this:
+
+🎙️ "Explain this chart."
+
+Then:
+
+📷 upload chart
+
+Then:
+
+🎙️ "What's the biggest problem here?"
+
+Then type:
+
+"Give me the numbers."
+
+Then ChatGPT responds verbally.
+
+This is much more powerful than a traditional voice assistant.
+
+OpenAI explicitly supports using text and images during a Live conversation, without starting a separate chat.
+
+**This is where ChatGPT's mobile UX starts to feel fundamentally different from Siri/Google Assistant-style interaction.**
+
+It's not:
+
+**voice assistant**
+
+It's:
+
+**multimodal conversational workspace.**
+
+**7. Is Voice contextually helpful?**
+
+Yes - increasingly so.
+
+The November 2025 Voice redesign explicitly focused on keeping voice, text and visuals together. OpenAI described examples such as language practice, cooking measurements, charts and code where spoken conversation benefits from simultaneously visible information.
+
+That's excellent contextual design.
+
+For example:
+
+**User:**
+
+"What's the weather tomorrow?"
+
+ChatGPT can answer verbally.
+
+But:
+
+**User:**
+
+"Compare the temperatures for the next seven days."
+
+Now visual information can complement the spoken response.
+
+The interface can therefore adapt:
+
+Simple question
+      ↓
+     VOICE
+      ↓
+spoken answer
+
+
+Complex / visual question
+      ↓
+VOICE + TEXT + VISUALS
+      ↓
+richer understanding
+
+That's much more useful than treating voice as a standalone channel.
