@@ -19,4 +19,4 @@ As of August 2026, the ChatGPT mobile app is becoming an **AI assistant + resear
 <img width="250" height="250" alt="CGPT_ML_IMG_5" src="https://github.com/user-attachments/assets/9fb646f1-0ee5-4284-aae9-6023bc9f685e" />
 <img width="250" height="250" alt="CGPT_ML_IMG_6" src="https://github.com/user-attachments/assets/4fbb8736-27bf-47ef-be68-af569cd59fff" />
 
-
+Think of the mobile app as **7 major layers**:
