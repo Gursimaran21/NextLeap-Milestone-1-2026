@@ -11,3 +11,103 @@ Yes. If I were evaluating the **ChatGPT Android/iOS mobile experience specifical
 **2. Voice conversation** - speak ↔ ChatGPT speaks back.
 
 That distinction is important because both use voice, but they represent very different user intents. OpenAI explicitly separates them in its documentation.
+
+**My UX Verdict**
+
+| UX dimension                                 | Assessment     | Why                                                                                            |
+| -------------------------------------------- | -------------- | ---------------------------------------------------------------------------------------------- |
+| **Discoverability**                          | 🟢 Strong      | Voice is directly in the message bar                                                           |
+| **Affordance**                               | 🟢 Strong      | Voice icon is recognizable and placed where users expect input controls                        |
+| **Initial intuitiveness**                    | 🟢 Strong      | Tap → permission → speak is straightforward                                                    |
+| **Distinguishing Voice vs Dictation**        | 🟡 Mixed       | Two voice-related concepts can create ambiguity                                                |
+| **Contextual helpfulness**                   | 🟢 Very strong | Voice now works inside the conversation rather than forcing a separate experience              |
+| **Continuity**                               | 🟢 Excellent   | Users can switch between voice and text/images in the same conversation                        |
+| **Feedback during interaction**              | 🟢 Strong      | Live transcription/response provides visible confirmation                                      |
+| **Discoverability of advanced capabilities** | 🟡 Moderate    | Background conversations, Start with Voice, language, etc. live in Settings                    |
+| **Overall**                                  | **8/10**       | Excellent core interaction; opportunity remains around explaining *which kind of voice* to use |
+
+**1. Where is the voice input surface?**
+
+On mobile, Voice is in the message bar.
+
+OpenAI's current instructions are:
+
+Select the **Voice icon in the message bar.**
+
+Then grant microphone permission if necessary, choose a voice on first use, and start speaking.
+
+This is a good placement decision.
+
+Why?
+
+Because the user's mental model is:
+
+**"I want to communicate with ChatGPT."**
+
+The message bar is already the communication surface.
+
+Putting Voice there means:
+
+                  ChatGPT
+                     │
+        ┌────────────┴────────────┐
+        │                         │
+    Message bar               Voice
+        │                         │
+      Type                    Speak
+        │                         │
+        └────────────┬────────────┘
+                     │
+                  Chat
+
+The user doesn't have to navigate to a separate "Voice" section to discover it.
+
+**Verdict: Highly Discoverable**
+
+**2. But there's an interesting UX ambiguity**
+
+The word "voice" actually represents two different experiences.
+
+**Surface A - Dictation**
+
+🎙️
+
+"Write this message for me."
+
+You speak.
+
+ChatGPT transcribes it.
+
+You edit the text.
+
+You press Send.
+
+OpenAI describes this as **Voice Dictation**.
+
+**Surface B - Voice Conversation**
+
+🎧/voice
+
+"Talk to me."
+
+You speak.
+
+ChatGPT listens.
+
+ChatGPT responds verbally.
+
+You continue talking.
+
+That's **ChatGPT Voice.**
+
+This creates an interesting product question:
+
+**Does the UI sufficiently communicate the difference between "speak my message" and "start talking with ChatGPT"?**
+
+I'd say **not completely**.
+
+For a new user, both can reasonably be interpreted as:
+
+"Use my microphone."
+
+That's the biggest UX weakness I'd investigate.
