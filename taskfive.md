@@ -158,4 +158,4 @@ to:
 
 That could substantially increase **frequency, breadth of use cases, habit formation, and the amount of real-world context ChatGPT receives**, while creating a natural entry point into multimodal and agentic experiences.
 
-## Go back to [README](README.md)
+## Go back to [README](README.md) **or** **Click on** **[Task 1](taskone.md)** **or** **Click on** **[Task 2](tasktwo.md)** **or** **Click on** **[Task 3](taskthree.md)** **or** **Click on** **[Task 4](taskfour.md)**
