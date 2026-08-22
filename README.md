@@ -46,4 +46,4 @@ Done is better than perfect!✨
 
 Good luck! We're rooting for you.
 
-**Click on** **[Task 1](taskone.md)**
+## **Click on** **[Task 1](taskone.md)** **or** **Click on** **[Task 2](tasktwo.md)** **or** **Click on** **[Task 3](taskthree.md)** **or** **Click on** **[Task 4](taskfour.md)** **or** **Click on** **[Task 5](taskfive.md)**
