@@ -1,6 +1,6 @@
 # NextLeap-Milestone-1-2026
 
-## Milestone 1 : ChatGPT
+## Milestone 1 - ChatGPT : Increase the Usage of Voice Input on the ChatGPT Mobile App
 
 **Week 1: Mapping Business Outcome to Product Outcome**
 
